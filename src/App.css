@@ -75,5 +75,10 @@ body
         min-width:120px;
         min-height: 200px;
     }
+
+    .card .frontSide
+    {
+        object-fit: cover;
+    }
     
 }
