@@ -66,3 +66,14 @@ body
     top:0;
     transform: rotateY(180deg) translateZ(-2px);
 }
+
+@media (max-width:450px)
+{
+
+    .card
+    {
+        min-width:120px;
+        min-height: 200px;
+    }
+    
+}
